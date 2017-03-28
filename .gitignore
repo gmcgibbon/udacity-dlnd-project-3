@@ -33,6 +33,10 @@ src
 Read the Docs
 config.rst
 
+# Ignore pickles
+
+preprocess*.p
+
 # Ignore Dataset
 
 data/*
