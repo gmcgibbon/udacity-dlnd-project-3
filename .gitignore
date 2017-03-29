@@ -41,6 +41,10 @@ preprocess*.p
 
 data/*
 
+# Ignore FloydHub files
+
+.floyd*
+
 # Ignore exports
 
 export/*
